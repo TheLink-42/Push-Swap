@@ -32,6 +32,7 @@ stack.**
 | `rrb` | Shifts all elements of stack b from top to bottom      |
 | `rrr` | Shifts all elements of both stacks from top to bottom  |
 
+---
 ## Algorithm
 
 ### STACK OF 3 OR LESS NUMBERS
