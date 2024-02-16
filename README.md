@@ -57,6 +57,8 @@ My push_swap sorts
 The algorithm should be efficient enough to reach 100%. However the maximum instructions for 
 500 numbers are barely inside the limit and it might surpass for a few instructions
 in some cases (Tho every try I´ve made so far has been under 5500 instructions).
+
+---
 ## Tester
 
 In order to run the tester execute this command on your push_swap directory:
@@ -70,4 +72,17 @@ amount of executions just change number 100 for any number you want.
 
 ![Tester example](https://cdn.discordapp.com/attachments/800692244179845150/1159293284322123856/image.png?ex=65307f01&is=651e0a01&hm=8c33b0dbd192a9805f9d8ee72ea81f9f92b6724f46d4df33797c742b94cbdf6f& "Tester example")
 
-If you encounter any problem using the tester, feel free to reach me on slack [jbaeza-c](https://42born2code.slack.com/team/U05RS80818A) to ask me any question. 
+---
+
+### Contact
+
+If you have any questions feel free to reach out!
+
+* **Github:** [TheLink-42](https://github.com/TheLink-42)
+* **Slack:** [jbaeza-c](https://42born2code.slack.com/team/U05RS80818A)
+
+---
+
+Check other projects [here](https://github.com/TheLink-42/42-Journey)
+
+
