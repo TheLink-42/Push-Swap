@@ -43,7 +43,8 @@ For example, we have the stack |2 1 3|. We should perform movement `sa` which wi
 
 However, it gets more complicated as we work with higher amounts of numbers. Therefore I have implemented the following algorithm to sort any stack with more than 3 numbers.
 
-Goal: move the numbers from the primary stack to the auxiliary stack sorting them backwards in the process and move them back to the primary stack, already sorted.
+**Goal:** move the numbers from the primary stack to the auxiliary stack sorting them backwards in the process and move them back to the primary stack, already sorted.
+
 First, we check if the stack is already sorted, as we would not need perform any movement.
 If the stack is unsorted we will perform `pb` twice. Why? In order for this algorithm to work, we need at least two numberes in the auxiliary stack to find if the next number is the smallest, the highest or in between the two of them.
 
