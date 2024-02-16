@@ -64,6 +64,12 @@ The algorithm should be efficient enough to reach 100%. However the maximum inst
 in some cases (Tho every try I´ve made so far has been under 5500 instructions).
 
 ---
+
+## BONUS
+Create your own tester which recives the stack as argument. It will then read the instructions to follow to sort the stack and check it´s final result. If the stack ends up sorted, it will display `OK`. Otherwise, `KO` will be displayed.
+
+---
+
 ## Tester
 
 In order to run the tester execute this command on your push_swap directory:
