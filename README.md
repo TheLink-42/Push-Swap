@@ -66,7 +66,7 @@ in some cases (Tho every try I´ve made so far has been under 5500 instructions)
 
 ---
 
-## BONUS
+## Bonus
 Create your own tester which recives the stack as argument. It will then read the instructions to follow to sort the stack and check it´s final result. If the stack ends up sorted, it will display `OK`. Otherwise, `KO` will be displayed.
 
 ---
@@ -86,7 +86,7 @@ amount of executions just change number 100 for any number you want.
 
 ---
 
-### Contact
+## Contact
 
 If you have any questions feel free to reach out!
 
