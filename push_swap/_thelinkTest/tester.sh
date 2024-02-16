@@ -2,7 +2,7 @@
 
 source ./_thelinkTest/colors.sh
 
-make all
+make re
 
 loops=$1
 
